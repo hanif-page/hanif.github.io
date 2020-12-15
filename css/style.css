@@ -7,3 +7,14 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: orangered;
 }
+
+.li {
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraf {
+    font-family: sans-serif;
+    color: saddlebrown;
+}
+
