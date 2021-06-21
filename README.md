@@ -5,3 +5,9 @@ a website for hanif-sudoapt account
 ```python
 print("Code Snippets")
 ```
+```
+npm init -y
+```
+```
+npm run dev
+```
